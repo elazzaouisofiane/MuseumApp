@@ -5,6 +5,6 @@ public class Vehicle {
     double speed;
 
     void move() {
-        System.out.println("The vehicleis moving");
+        System.out.println("The vehicle is moving");
     }
 }
